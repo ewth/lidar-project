@@ -1,0 +1,29 @@
+LidarComms	KEYWORD1	LidarComms
+
+checkUdpPacket	KEYWORD2
+sendMessage	KEYWORD2
+handleMessage	KEYWORD2
+sayHello	KEYWORD2
+sayHelloBack	KEYWORD2
+addClientInfo	KEYWORD2
+wifiEvent	KEYWORD2
+broadcastId	KEYWORD2
+connectWifi	KEYWORD2
+disconnectWifi	KEYWORD2
+startUdp	KEYWORD2
+setMessageHandler	KEYWORD2
+setConnectionHandler	KEYWORD2
+getWifiSsid	KEYWORD2
+isConnected	KEYWORD2
+getClientId	KEYWORD2
+isClientConnected	KEYWORD2
+getLastMessageTime	KEYWORD2
+
+
+SWOL_CLIENT	LITERAL1
+SMOL_CLIENT	LITERAL1
+MSG_ID	LITERAL1
+MSG_CLIENT_INFO	LITERAL1
+
+MSG_SYSTEM_FAILURE	LITERAL1
+

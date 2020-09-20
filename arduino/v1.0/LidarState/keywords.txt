@@ -1,0 +1,8 @@
+
+LidarState	KEYWORD1	LidarState
+
+transitionTo	KEYWORD2
+isTimedOut	KEYWORD2
+getStateChangeTime	KEYWORD2
+getCurrentState	KEYWORD2
+getPrevState	KEYWORD2
